@@ -7,6 +7,6 @@ Add [filters.txt](filters.txt) to uBlock Origin extension in your browser.
 ## Support table for filters
 Site             | Chromium-based browsers | Firefox browser
 -----------------|-----------------------|----------------
-karachan.org     | Requires injecting this snippet of javascript to make the site usable<br> `localStorage.xD = "xD"` | :heavy_check_mark:
+karachan.org     | :heavy_check_mark:    | :heavy_check_mark:
 wilchan.org      | :heavy_check_mark:    | :heavy_check_mark:
 szonarchive.xyz  | :heavy_check_mark:    | :heavy_check_mark:
