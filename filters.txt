@@ -1,0 +1,26 @@
+! Title: karachan-filters
+! Description: A comprehensive set of filters for uBlock Origin that allows you to access polish imageboards such as Karachan and other related sites.
+! Homepage: https://github.com/czaczar/karachan-filters
+! Expires: 3 days
+
+! karachan.org
+||freshscat.com$domain=karachan.org
+||youtube.com/embed/j0aAiKSUzJM$domain=karachan.org
+||karachan.org/bolbutthurtu.webm
+karachan.org###zjadam_srake
+karachan.org###czaj
+karachan.org###kurwy
+karachan.org##.board:style(background-image:none !important)
+karachan.org##div:matches-css(background-color:rgb(255, 0, 0))
+!#if env_firefox
+karachan.org##^script:has-text(localStorage.xD)
+karachan.org##^script:has-text(_0xe852)
+!#endif
+
+! wilchan.org
+||wilchan.org/js/smietnik.js
+||wilchan.org/js/openings*.js
+||wilchan.org/js/wilno2.js
+
+! szonarchive.xyz
+||szonarchive.xyz$inline-script
