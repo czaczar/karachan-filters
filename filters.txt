@@ -7,7 +7,6 @@
 ||freshscat.com$domain=karachan.org
 ||youtube.com/embed/j0aAiKSUzJM$domain=karachan.org
 ||karachan.org/bolbutthurtu.webm
-||karachan.org/kulfon.opus
 ||karachan.org/wykop/src/1577811355539470976.webm
 karachan.org###zjadam_srake
 karachan.org###czaj
@@ -16,18 +15,13 @@ karachan.org##.board:style(background-image:none !important)
 !#if cap_html_filtering
 karachan.org##^script:has-text(localStorage.xD)
 karachan.org##^script:has-text(_0xe852)
-karachan.org##^script:has-text(createSnow)
 !#endif
 !#if !cap_html_filtering
 karachan.org##+js(abort-current-inline-script.js, localStorage.xD)
 karachan.org##+js(abort-current-inline-script.js, _0xe852)
-karachan.org##+js(abort-current-inline-script.js, createSnow)
 !#endif
 
 ! wilchan.org
 ||wilchan.org/js/smietnik.js
 ||wilchan.org/js/openings*.js
 ||wilchan.org/js/wilno2.js
-
-! szonarchive.xyz
-||szonarchive.xyz$inline-script
