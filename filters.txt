@@ -6,6 +6,7 @@
 ! karachan.org
 ||freshscat.com$domain=karachan.org
 ||youtube.com/embed/j0aAiKSUzJM$domain=karachan.org
+||koronawirus.netlify.com$domain=karachan.org
 ||karachan.org/bolbutthurtu.webm
 ||karachan.org/wykop/src/1577811355539470976.webm
 ||karachan.org/wykop/src/1584127626835644712.mp4
