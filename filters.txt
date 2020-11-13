@@ -18,11 +18,9 @@ karachan.org###kurwy
 karachan.org##.board:style(background-image:none !important)
 !#if cap_html_filtering
 karachan.org##^script:has-text(localStorage.xD)
-karachan.org##^script:has-text(_0xe852)
 !#endif
 !#if !cap_html_filtering
-karachan.org##+js(abort-current-inline-script.js, localStorage.xD)
-karachan.org##+js(abort-current-inline-script.js, _0xe852)
+karachan.org##+js(acis, Math.sin)
 !#endif
 
 ! wilchan.org
