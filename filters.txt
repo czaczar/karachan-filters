@@ -20,7 +20,7 @@ karachan.org##.board:style(background-image:none !important)
 karachan.org##^script:has-text(localStorage.xD)
 !#endif
 !#if !cap_html_filtering
-karachan.org##+js(acis, Math.sin)
+karachan.org##+js(acis, Math.sin, localStorage.xD)
 !#endif
 
 ! wilchan.org
