@@ -14,3 +14,4 @@ Site             | Chromium-based browsers | Firefox browser
 -----------------|-----------------------|----------------
 karachan.org     | :heavy_check_mark:    | :heavy_check_mark:
 wilchan.org      | :heavy_check_mark:    | :heavy_check_mark:
+chanwiki.com     | :heavy_check_mark:    | :heavy_check_mark:
