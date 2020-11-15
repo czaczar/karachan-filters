@@ -29,5 +29,6 @@ karachan.org##+js(acis, Math.sin, localStorage.xD)
 ||wilchan.org/js/wilno2.js
 
 ! chanwiki.com
+chanwiki.com##body:after
 chanwiki.com##+js(aopr, rzeczy)
 chanwiki.com##+js(aopw, HTMLImageElement.prototype.src)
