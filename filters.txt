@@ -30,5 +30,4 @@ karachan.org##+js(acis, Math.sin, localStorage.xD)
 
 ! chanwiki.com
 chanwiki.com##body:after
-chanwiki.com##+js(aopr, nginx)
 chanwiki.com##+js(aopw, HTMLImageElement.prototype.src)
