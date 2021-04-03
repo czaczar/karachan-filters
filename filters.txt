@@ -12,9 +12,12 @@
 ||karachan.org/wykop/src/1584127626835644712.mp4
 ||karachan.org/jannn.webm
 ||karachan.org/Bursztynek.mp3
+||karachan.org/b/src/rakusptakus2.jpg
 karachan.org###zjadam_srake
 karachan.org###czaj
 karachan.org###kurwy
+karachan.org##body>div:first-child
+karachan.org###delform:style(background-image:none !important)
 karachan.org##.board:style(background-image:none !important)
 !#if cap_html_filtering
 karachan.org##^script:has-text(localStorage.xD)
