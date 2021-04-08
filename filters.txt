@@ -21,9 +21,11 @@ karachan.org###delform:style(background-image:none !important)
 karachan.org##.board:style(background-image:none !important)
 !#if cap_html_filtering
 karachan.org##^script:has-text(localStorage.xD)
+karachan.org##^script:has-text(_0x5215)
 !#endif
 !#if !cap_html_filtering
 karachan.org##+js(acis, Math.sin, localStorage.xD)
+karachan.org##+js(acis, Math.random, _0x5215)
 !#endif
 
 ! wilchan.org
