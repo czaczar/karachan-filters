@@ -27,6 +27,9 @@ karachan.org##^script:has-text(_0x5215)
 karachan.org##+js(acis, Math.sin, localStorage.xD)
 karachan.org##+js(acis, Math.random, _0x5215)
 !#endif
+karachan.org###jesli-zablokujesz-tego-diva-ukraina-odniesie-zwyciestwo
+karachan.org/js/htmlshiv.js
+
 
 ! wilchan.org
 ||wilchan.org/js/smietnik.js
