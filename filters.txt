@@ -16,6 +16,7 @@
 karachan.org###zjadam_srake
 karachan.org###czaj
 karachan.org###kurwy
+karachan.org###jesli-zablokujesz-tego-diva-ukraina-odniesie-zwyciestwo
 karachan.org##body>div:first-child
 karachan.org###delform:style(background-image:none !important)
 karachan.org##.board:style(background-image:none !important)
