@@ -3,10 +3,10 @@ A comprehensive set of filters for **uBlock Origin** that allows you to access p
 
 ## Installation
 Just click [here](
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/czaczar/karachan-filters/master/filters.txt&title=karachan-filters) to install or...
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/sourcecodeQC/karachan-filters/master/filters.txt&title=karachan-filters) to install or...
 * Open uBO's dashboard and go to "Filter lists" tab
 * Click the *Import* checkbox in the *Custom* section and paste the URL below:<br> 
-``https://raw.githubusercontent.com/czaczar/karachan-filters/master/filters.txt``
+``https://raw.githubusercontent.com/sourcecodeQC/karachan-filters/master/filters.txt``
 
 
 ## Support table for filters
